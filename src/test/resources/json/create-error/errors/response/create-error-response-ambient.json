@@ -1,0 +1,7 @@
+{
+  "status": 400,
+  "errors": [
+    "Inform the description",
+    "Inform the level"
+  ]
+}

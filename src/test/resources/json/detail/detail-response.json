@@ -1,0 +1,18 @@
+[
+  {
+    "ambient": "DESENVOLVIMENTO",
+    "level": "WARNING",
+    "description": "teste1",
+    "usernameFromUser": "username",
+    "status": null,
+    "ipOrigin": "ip"
+  },
+  {
+    "ambient": "HOMOLOGACAO",
+    "level": "DEBUG",
+    "description": "teste2",
+    "usernameFromUser": "username",
+    "status": null,
+    "ipOrigin": "ip"
+  }
+]
